@@ -7,3 +7,7 @@ Librerías:
 	tzapu/WiFiManager@^2.0.17
 	https://github.com/pschatzmann/arduino-audio-tools/archive/refs/heads/main.zip
 	https://github.com/pschatzmann/Maximilian/archive/refs/heads/master.zip
+
+
+https://github.com/user-attachments/assets/ea4a3f58-8577-4363-9afd-ea07654f362a
+
